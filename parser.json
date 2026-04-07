@@ -1,7 +1,7 @@
 {
+  "location": "dialects/terraform",
+  "lang": "terraform",
   "url": "https://github.com/MichaHoffmann/tree-sitter-hcl",
   "semver": false,
-  "parser_version": "64ad62785d442eb4d45df3a1764962dafd5bc98b",
-  "location": "dialects/terraform",
-  "lang": "terraform"
+  "parser_version": "64ad62785d442eb4d45df3a1764962dafd5bc98b"
 }
